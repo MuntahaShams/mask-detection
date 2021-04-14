@@ -1,4 +1,4 @@
-# Real_time-Face-Mask Detector
+# Real-time-Mask-Detection
 Real time face-mask detection using Deep Learning and OpenCV
 
 ## About Project
@@ -13,7 +13,7 @@ wearing/removing mask and display of prediction.
 
 ### With Mask
 
-![image](with mask.png)
+![image](with mask.PNG)
 
 ## Dataset
 
