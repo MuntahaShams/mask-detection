@@ -13,7 +13,7 @@ wearing/removing mask and display of prediction.
 
 ### With Mask
 
-![image](mask.png)
+![image](with mask.png)
 
 ## Dataset
 
