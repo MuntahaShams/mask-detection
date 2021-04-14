@@ -44,6 +44,6 @@ jupyter notebook
 ```
 run all cells 
 ```
-## You should have tensorflow=2.4.1 to this project
+## You should have tensorflow=2.4.1 to run this project
 #### The Project is now ready to use !!
 
