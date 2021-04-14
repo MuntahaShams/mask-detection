@@ -35,17 +35,12 @@ followed by:
 cd real-time-mask-detection
 ```
 
-2. Download all libaries using::
-```
-pip install -r requirements.txt
-```
-
-3. Open jupyter notebook using cmd
+2. Open jupyter notebook using cmd
 ```
 jupyter notebook 
 ```
 
-4. Go to realtime.ipnyb:
+3. Go to realtime.ipnyb:
 ```
 run all cells 
 ```
